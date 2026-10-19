@@ -1,26 +1,112 @@
-<h1 align="center">Hi 👋, I'm Aurovind Maharana</h1>
-<h3 align="center">A passionate java developer from India</h3>
+# 👋 Hi, I'm Aurovind Maharana
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurovind29&label=Profile%20views&color=0e75b6&style=flat" alt="aurovind29" /> </p>
+### Java Developer | Electronics & Telecommunication Engineering Student | Aspiring Full-Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurovind29" alt="aurovind29" /></a> </p>
+I'm a second-year engineering student passionate about building practical software, exploring embedded systems, and learning how technology solves real-world problems.
 
-- 🌱 I’m currently learning **Advanced Java,Javascript**
+- 🔭 **Building:** [VoyageIQ](https://voyageiq-597917179405.us-east1.run.app) — an AI-powered travel planning platform
+- 🌱 **Currently learning:** Advanced Java, JavaScript, backend development, and SQL
+- 💻 **Interested in:** Full-stack development, open source, AI, and embedded systems
+- 🤝 **Looking to collaborate on:** Beginner-friendly open-source projects and innovative tech ideas
+- 📫 **Email:** [aurovind29@gmail.com](mailto:aurovind29@gmail.com)
+- ⚡ **Fun fact:** I enjoy combining software with hardware to build useful projects.
 
-- 💬 Ask me about **Core Java**
+---
 
-- 📫 How to reach me **aurovind29@gmail.com**
+## 🌐 Connect With Me
 
-- ⚡ Fun fact **I am 2nd yr**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aurovind maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurovind maharana" height="30" width="40" /></a>
+  <a href="https://github.com/aurovind29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aurovind-maharana-b07b74382/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aurovind29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🛠️ Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurovind29&show_icons=true&locale=en&layout=compact" alt="aurovind29" /></p>
+<p align="left">
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>&nbsp;
+  <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/></a>&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/></a>&nbsp;
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>&nbsp;
+  <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/></a>&nbsp;
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/></a>&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurovind29&show_icons=true&locale=en" alt="aurovind29" /></p>
+## 🚀 Featured Projects
+
+### 🌍 [VoyageIQ — AI Travel Planner](https://voyageiq-597917179405.us-east1.run.app)
+
+An AI-powered travel planning website designed to help users explore destinations, discover places to visit, and plan trips.
+
+- 🗺️ Destination exploration and travel information
+- 🤖 AI-assisted trip planning
+- 🏨 Hotel and rental booking links
+
+**[Visit Live Website](https://voyageiq-597917179405.us-east1.run.app)** · **[Explore My Repositories](https://github.com/aurovind29?tab=repositories)**
+
+### 📦 Smart Delivery Box — Embedded Systems Project
+
+A smart parcel-security concept combining a microcontroller, sensors, RFID authentication, and remote notifications.
+
+- 📡 Parcel detection and monitoring
+- 🔐 RFID-based access control
+- 📲 Remote alerts and event logging
+
+**[Explore My Repositories](https://github.com/aurovind29?tab=repositories)**
+
+*More projects will be added as their source repositories are published.*
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aurovind29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurovind29&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurovind29&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aurovind29&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aurovind29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub achievement trophies"/>
+</p>
+
+## ⭐ Explore My GitHub
+
+<p align="center">
+  <a href="https://github.com/aurovind29?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+  <a href="https://github.com/aurovind29?tab=stars">
+    <img src="https://img.shields.io/badge/Repositories%20I've%20Starred-E3B341?style=for-the-badge&logo=github&logoColor=black" alt="Starred repositories"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Learn consistently, build boldly, and improve one commit at a time.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aurovind29&label=Profile%20Views&color=1E3A8A&style=flat" alt="Profile views"/>
+</p>
